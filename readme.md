@@ -8,3 +8,6 @@ I'm not organizing these wallpapers in any specific way, as I have always just e
 I still do keep the original [wallpaper repo](https://github.com/makccr/wallpapers), but that's mainly for me own use (feel free to sift through it if you want though). If you however are coming here from my [YouTube channel](https://yt.makc.co), this is the repo to stick to.
 
 ## My Current Favorite Wallpaper
+![Turtles in Playa del Carmen, Mexico](https://raw.githubusercontent.com/makccr/wallpapers-ii/master/wallpapers/ricardo-braham-turtles-in-playa-del-carmen-mexico.jpg)
+##### Turtles in Playa del Carmen Mexico
+###### Ricardo Braham
