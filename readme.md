@@ -1,3 +1,6 @@
+# Archived Repo
+I don't know why I ever bifurcated my wallpaper repositories. I've fixed it now, and this repo is no long active. You can view my full wallpaper collection [here](https://github.com/makccr/wallpapers). 
+
 ![Header SVG](https://makccr.github.io/images/github-header.svg)
 
 # Wallpapers - *Version II*
